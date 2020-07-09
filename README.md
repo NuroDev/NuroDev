@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://i.imgur.com/4M7IWwP.gif)
+<img width="100%" src="https://i.imgur.com/4M7IWwP.gif" />
 
 # Hey, I'm Ben 👋
 A games programmer & web developer
@@ -24,4 +24,4 @@ Ben **(he/him)** / 22 / London, United Kingdom
 
 [🐦 Twitter](https://www.twitter.com/nurodev/) ***|*** [🌐 Website](https://nuro.sh/) ***|*** [📧 Email](mailto:me@nuro.sh)
 
-![](https://i.imgur.com/4M7IWwP.gif)
+<img width="100%" src="https://i.imgur.com/4M7IWwP.gif" />
