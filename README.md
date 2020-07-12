@@ -14,11 +14,11 @@ Ben **(he/him)** / 22 / Bedford, United Kingdom
 [![node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=node.js&logoColor=white&longCache=true&style=for-the-badge)](https://nodejs.org/en/)
 [![deno](https://img.shields.io/badge/-deno-000000.svg?logo=deno&logoColor=white&longCache=true&style=for-the-badge)](https://deno.land/)
 [![vue.js](https://img.shields.io/badge/-vue.js-4FC08D.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://vuejs.org/)
-[![directx](https://img.shields.io/badge/-directx-80bb01.svg?logo=windows&logoColor=white&longCache=true&style=for-the-badge)](https://www.khronos.org/vulkan/)
+[![directx](https://img.shields.io/badge/-directx-80bb01.svg?logo=windows&logoColor=white&longCache=true&style=for-the-badge)](https://docs.microsoft.com/en-us/windows/win32/directx)
 ![opengl](https://img.shields.io/badge/-opengl-5586A4.svg?logo=opengl&logoColor=white&longCache=true&style=for-the-badge)
 [![vulkan](https://img.shields.io/badge/-vulkan-AC162C.svg?logo=vulkan&logoColor=white&longCache=true&style=for-the-badge)](https://www.khronos.org/vulkan/)
 
-[![Digital Ocean](https://img.shields.io/badge/-digital%20ocean-0080FF.svg?logo=DigitalOcean&logoColor=white&longCache=true&style=for-the-badge)](https://github.com)
+[![Digital Ocean](https://img.shields.io/badge/-digital%20ocean-0080FF.svg?logo=DigitalOcean&logoColor=white&longCache=true&style=for-the-badge)](https://www.digitalocean.com/)
 [![ScaleWay](https://img.shields.io/badge/-scaleway-4F0599.svg?logo=scaleway&logoColor=white&longCache=true&style=for-the-badge)](https://scaleway.com)
 [![Vercel](https://img.shields.io/badge/-vercel-000000.svg?logo=zeit&logoColor=white&longCache=true&style=for-the-badge)](https://vercel.com)
 
