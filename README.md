@@ -5,14 +5,17 @@ A games programmer & web developer
 
 Ben **(he/him)** / 22 / Bedford, United Kingdom
 
+[![C](https://img.shields.io/badge/-C-A8B9CC.svg?logo=C&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=c%2B%2B)
 [![Rust](https://img.shields.io/badge/-rust-000000.svg?logo=rust&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=rust)
 [![Swift](https://img.shields.io/badge/-swift-FA7343.svg?logo=swift&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=swift)
+[![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=javascript)
 [![TypeScript](https://img.shields.io/badge/-typescript-007ACC.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=typescript)
 [![Python](https://img.shields.io/badge/-python-3776AB.svg?logo=python&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=python)
 
 [![node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=node.js&logoColor=white&longCache=true&style=for-the-badge)](https://nodejs.org/en/)
 [![deno](https://img.shields.io/badge/-deno-000000.svg?logo=deno&logoColor=white&longCache=true&style=for-the-badge)](https://deno.land/)
+[![React.js](https://img.shields.io/badge/-react.js-61DAFB.svg?logo=react&logoColor=white&longCache=true&style=for-the-badge)](https://vuejs.org/)
 [![vue.js](https://img.shields.io/badge/-vue.js-4FC08D.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://vuejs.org/)
 [![directx](https://img.shields.io/badge/-directx-80bb01.svg?logo=windows&logoColor=white&longCache=true&style=for-the-badge)](https://docs.microsoft.com/en-us/windows/win32/directx)
 ![opengl](https://img.shields.io/badge/-opengl-5586A4.svg?logo=opengl&logoColor=white&longCache=true&style=for-the-badge)
