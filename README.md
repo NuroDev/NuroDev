@@ -21,7 +21,7 @@ Ben **(he/him)** / 22 / Bedford, United Kingdom
 ![opengl](https://img.shields.io/badge/-opengl-5586A4.svg?logo=opengl&logoColor=white&longCache=true&style=for-the-badge)
 [![vulkan](https://img.shields.io/badge/-vulkan-AC162C.svg?logo=vulkan&logoColor=white&longCache=true&style=for-the-badge)](https://www.khronos.org/vulkan/)
 
-[![Digital Ocean](https://img.shields.io/badge/-digital%20ocean-0080FF.svg?logo=DigitalOcean&logoColor=white&longCache=true&style=for-the-badge)](https://m.do.co/c/81fa220bbbe0/)
+[![Digital Ocean](https://img.shields.io/badge/-digital%20ocean-0080FF.svg?logo=DigitalOcean&logoColor=white&longCache=true&style=for-the-badge)](https://www.digitalocean.com/?refcode=81fa220bbbe0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
 [![Vultr](https://img.shields.io/badge/-vultr-007bfc.svg?logo=Vultr&logoColor=white&longCache=true&style=for-the-badge)](https://www.vultr.com/?ref=7299996)
 [![ScaleWay](https://img.shields.io/badge/-scaleway-4F0599.svg?logo=scaleway&logoColor=white&longCache=true&style=for-the-badge)](https://scaleway.com)
 [![Vercel](https://img.shields.io/badge/-vercel-000000.svg?logo=vercel&logoColor=white&longCache=true&style=for-the-badge)](https://vercel.com)
