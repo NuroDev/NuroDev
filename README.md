@@ -3,7 +3,7 @@
 # Hey, I'm Ben 👋
 A games programmer & web developer
 
-Ben **(he/him)** / 22 / Bedford, United Kingdom
+Ben **(he/him)** / 23 / Bedford, United Kingdom
 
 [![C](https://img.shields.io/badge/-C-A8B9CC.svg?logo=C&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=c%2B%2B)
