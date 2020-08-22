@@ -26,7 +26,7 @@ Ben **(he/him)** / 23 / Bedford, United Kingdom
 [![ScaleWay](https://img.shields.io/badge/-scaleway-4F0599.svg?logo=scaleway&logoColor=white&longCache=true&style=for-the-badge)](https://scaleway.com)
 [![Vercel](https://img.shields.io/badge/-vercel-000000.svg?logo=vercel&logoColor=white&longCache=true&style=for-the-badge)](https://vercel.com)
 
-[![Website](https://img.shields.io/badge/-website-0072ff.svg?logo=icloud&logoColor=white&longCache=true&style=for-the-badge)](https://nuro.sh)
+[![Website](https://img.shields.io/badge/-website-0072ff.svg?logo=icloud&logoColor=white&longCache=true&style=for-the-badge)](https://nuro.dev)
 [![Twitter](https://img.shields.io/badge/-@nurodev-03A9F4.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/nurodev)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5.svg?logo=linkedin&logoColor=white&longCache=true&style=for-the-badge)](https://www.linkedin.com/in/nurodev)
 
