@@ -1,7 +1,7 @@
 <!-- <img width="100%" src="https://raw.githubusercontent.com/nurodev/nurodev/master/bar.gif" /> -->
 
 # Hey, I'm Ben 👋
-A games programmer & web developer
+A games programmer & full-stack developer
 
 Ben **(he/him)** / 23 / Bedford, United Kingdom
 
