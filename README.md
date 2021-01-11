@@ -23,7 +23,6 @@ Ben / 23 / Bedford, United Kingdom
 [![AWS](https://img.shields.io/badge/-aws-232f3e.svg?logo=amazon%20aws&logoColor=white&longCache=true&style=for-the-badge)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/-gcp-ffffff.svg?logo=google%20cloud&logoColor=black&longCache=true&style=for-the-badge)](https://cloud.google.com)
 [![Digital Ocean](https://img.shields.io/badge/-digital%20ocean-0080FF.svg?logo=DigitalOcean&logoColor=white&longCache=true&style=for-the-badge)](https://www.digitalocean.com/?refcode=81fa220bbbe0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
-[![Vultr](https://img.shields.io/badge/-vultr-007bfc.svg?logo=Vultr&logoColor=white&longCache=true&style=for-the-badge)](https://www.vultr.com/?ref=7299996)
 [![Vercel](https://img.shields.io/badge/-vercel-000000.svg?logo=vercel&logoColor=white&longCache=true&style=for-the-badge)](https://vercel.com)
 
 [![Website](https://img.shields.io/badge/-website-0072ff.svg?logo=icloud&logoColor=white&longCache=true&style=for-the-badge)](https://nuro.dev)
