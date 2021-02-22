@@ -15,10 +15,8 @@ Ben / 23 / Bedford, United Kingdom
 [![deno](https://img.shields.io/badge/-deno-000000.svg?logo=deno&logoColor=white&longCache=true&style=for-the-badge)](https://deno.land/)
 [![React.js](https://img.shields.io/badge/-react.js-61DAFB.svg?logo=react&logoColor=white&longCache=true&style=for-the-badge)](https://reactjs.org)
 [![vue.js](https://img.shields.io/badge/-vue.js-4FC08D.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://vuejs.org/)
-
 [![directx](https://img.shields.io/badge/-directx-80bb01.svg?logo=windows&logoColor=white&longCache=true&style=for-the-badge)](https://docs.microsoft.com/en-us/windows/win32/directx)
 ![opengl](https://img.shields.io/badge/-opengl-5586A4.svg?logo=opengl&logoColor=white&longCache=true&style=for-the-badge)
-[![vulkan](https://img.shields.io/badge/-vulkan-AC162C.svg?logo=vulkan&logoColor=white&longCache=true&style=for-the-badge)](https://www.khronos.org/vulkan/)
 
 [![AWS](https://img.shields.io/badge/-aws-232f3e.svg?logo=amazon%20aws&logoColor=white&longCache=true&style=for-the-badge)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/-gcp-ffffff.svg?logo=google%20cloud&logoColor=black&longCache=true&style=for-the-badge)](https://cloud.google.com)
