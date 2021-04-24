@@ -1,30 +1,19 @@
-<!-- <img width="100%" src="https://raw.githubusercontent.com/nurodev/nurodev/master/bar.gif" /> -->
+### Hey, I'm Ben 👋
 
-# Hey, I'm Ben 👋
-A games programmer & full-stack developer
+I'm a 23 year old full-stack engineer & games developer
 
-Ben / 23 / Bedford, United Kingdom
+## ⚡️ Current
 
-[![C++](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=c%2B%2B)
-[![Rust](https://img.shields.io/badge/-rust-000000.svg?logo=rust&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=rust)
-[![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=javascript)
-[![TypeScript](https://img.shields.io/badge/-typescript-007ACC.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=typescript)
-[![Python](https://img.shields.io/badge/-python-3776AB.svg?logo=python&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/nurodev?tab=repositories&q=&type=&language=python)
+Currently I am helping build [Attio](https://attio.com/), a fully customizable workspace for your team's relationships & workflows. 
 
-[![node.js](https://img.shields.io/badge/-node.js-339933.svg?logo=node.js&logoColor=white&longCache=true&style=for-the-badge)](https://nodejs.org/en/)
-[![deno](https://img.shields.io/badge/-deno-000000.svg?logo=deno&logoColor=white&longCache=true&style=for-the-badge)](https://deno.land/)
-[![React.js](https://img.shields.io/badge/-react.js-61DAFB.svg?logo=react&logoColor=white&longCache=true&style=for-the-badge)](https://reactjs.org)
-[![vue.js](https://img.shields.io/badge/-vue.js-4FC08D.svg?logo=vue.js&logoColor=white&longCache=true&style=for-the-badge)](https://vuejs.org/)
-[![directx](https://img.shields.io/badge/-directx-80bb01.svg?logo=windows&logoColor=white&longCache=true&style=for-the-badge)](https://docs.microsoft.com/en-us/windows/win32/directx)
-![opengl](https://img.shields.io/badge/-opengl-5586A4.svg?logo=opengl&logoColor=white&longCache=true&style=for-the-badge)
+## 💎 Experience
 
-[![AWS](https://img.shields.io/badge/-aws-232f3e.svg?logo=amazon%20aws&logoColor=white&longCache=true&style=for-the-badge)](https://aws.amazon.com)
-[![GCP](https://img.shields.io/badge/-gcp-ffffff.svg?logo=google%20cloud&logoColor=black&longCache=true&style=for-the-badge)](https://cloud.google.com)
-[![Digital Ocean](https://img.shields.io/badge/-digital%20ocean-0080FF.svg?logo=DigitalOcean&logoColor=white&longCache=true&style=for-the-badge)](https://www.digitalocean.com/?refcode=81fa220bbbe0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
-[![Vercel](https://img.shields.io/badge/-vercel-000000.svg?logo=vercel&logoColor=white&longCache=true&style=for-the-badge)](https://vercel.com/?utm_source=nuro&utm_campaign=oss)
+I like to say that I am a full-stack developer, but I have most experience with frontend development, primarily [React](https://reactjs.org/) & [Vue.js](https://vuejs.org/). However for the past few years I have been focusing a lot more on backend development, primarily using [TypeScript](https://www.typescriptlang.org/) & [Rust](https://www.rust-lang.org/).
 
-[![Website](https://img.shields.io/badge/-website-0072ff.svg?logo=icloud&logoColor=white&longCache=true&style=for-the-badge)](https://nuro.dev)
-[![Twitter](https://img.shields.io/badge/-@nurodev-03A9F4.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/nurodev)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5.svg?logo=linkedin&logoColor=white&longCache=true&style=for-the-badge)](https://www.linkedin.com/in/nurodev)
+Following from this, I spent 4 years studying Computer Games Programming at [Staffordshire University](https://www.staffs.ac.uk/), focusing on low-level programming using [C++](https://www.cplusplus.com/) & specializing on advanced graphics using industry standard frameworks such as [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) & [OpenGL](https://www.opengl.org/).
 
-<!-- <img width="100%" src="https://raw.githubusercontent.com/nurodev/nurodev/master/bar.gif" /> -->
+## 📫 Contact
+
+For a fast response, please DM me on Twitter: [@nurodev](https://twitter.com/direct_messages/create/nurodev) 
+
+Any other queries you can contact me via [LinkedIn](https://www.linkedin.com/in/nurodev) or via my website: [nuro.dev](https://nuro.dev/contact)
