@@ -2,10 +2,6 @@
 
 I'm a 24 year old full-stack engineer & games developer
 
-## ⚡️ Current
-
-Currently I am helping build [Attio](https://attio.com/), a fully customizable workspace for your team's relationships & workflows. 
-
 ## 💎 Experience
 
 I like to say that I am a full-stack developer, but I have most experience with frontend development, primarily [React](https://reactjs.org/) & [Vue.js](https://vuejs.org/). However for the past few years I have been focusing a lot more on backend development, primarily using [TypeScript](https://www.typescriptlang.org/) & [Rust](https://www.rust-lang.org/).
