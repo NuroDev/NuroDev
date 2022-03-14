@@ -2,6 +2,10 @@
 
 I'm a 24 year old full-stack engineer & games developer
 
+## ⚡️ Current
+
+Currently working with the team at [Wander](https://wander.com/), helping build a network of smart homes across the globe you can access with the tap of a button
+
 ## 💎 Experience
 
 I like to say that I am a full-stack developer, but I have most experience with frontend development, primarily [React](https://reactjs.org/) & [Vue.js](https://vuejs.org/). However for the past few years I have been focusing a lot more on backend development, primarily using [TypeScript](https://www.typescriptlang.org/) & [Rust](https://www.rust-lang.org/).
