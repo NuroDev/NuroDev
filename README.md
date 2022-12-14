@@ -4,7 +4,7 @@ I'm a 25 year old full-stack engineer & games developer
 
 ## ⚡️ Current
 
-Currently working with the team at [Wander](https://wander.com/), helping build a network of smart homes across the globe you can access with the tap of a button
+Currently working on a new super secret project TBA soomtime soon 🤫
 
 ## 💎 Experience
 
