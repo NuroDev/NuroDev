@@ -4,7 +4,7 @@ I'm a 25 year old full-stack engineer & games developer
 
 ## ⚡️ Current
 
-Currently working on a new super secret project TBA sometime soon 🤫
+Currently working on building [RONIN](https://ronin.co/)
 
 ## 💎 Experience
 
