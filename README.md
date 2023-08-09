@@ -1,3 +1,5 @@
+<img style="width:100%;height:3px;" src="./bar.gif" />
+
 ### Hey, I'm Ben 👋
 
 I'm a 26 year old full-stack engineer & games developer
