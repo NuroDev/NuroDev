@@ -1,6 +1,6 @@
 ### Hey, I'm Ben 👋
 
-I'm a 25 year old full-stack engineer & games developer
+I'm a 26 year old full-stack engineer & games developer
 
 ## ⚡️ Current
 
